@@ -4,7 +4,7 @@ excerpt: "A Fantasy Football Weekly Challenge Application"
 sidebar: false
 share: false
 header:
-  teaser: /assets/images/ffc3.png
+  teaser: /assets/images/ffc3.PNG
 gallery:
   - url: /assets/images/ffc1.PNG
     image_path: assets/images/ffc1.PNG

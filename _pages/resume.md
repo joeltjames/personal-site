@@ -225,11 +225,8 @@ author_profile: true
 }
         </style>
     
-        <div id="resume">
-            <p class="summary">Highly innovative senior full-stack software engineer with 7+ years of
-                experience solving complex technical challenges and a passion for drawing
-                insights from sports data. Eager to contribute to a team utilizing big
-                data to anser interesting questions.</p>
+        <p class="summary">Highly innovative senior full-stack software engineer with 7+ years of
+                experience solving complex technical challenges</p>
              <h2>Skills</h2>
             <section>
                 <p class="skill">Frontend</p>
@@ -279,21 +276,21 @@ author_profile: true
                     <li>Partnered with senior architect to lead a team of 2 developers to port
                         a a 20+-year-old piece of software responsible for managing edge devices
                         from C to Java so that we could improve maintainability and allow additional
-                        developers to contribute to the codebase, as the majority of our engineers
+                        developers to contribute to the codebase as the majority of our engineers
                         are proficient in Java</li>
                     <li>Worked alongside testing architects to stand up an ELK stack for log aggregation
                         and data analytics which is currently being utilized in our testing environment</li>
                     <li>Authored many testing tools, mostly written in python. Examples include
                         simulating vehicle behavior, simulating credit card transactions, etc</li>
-                    <li>Lead adhoc department-wide trainings on ELK stack, Python, Angular, and
+                    <li>Lead ad hoc department-wide trainings on ELK stack, Python, Angular, and
                         other job-specific duties</li>
-                    <li>Lead adhoc training sessions on internal tools to enable customer service
+                    <li>Lead ad hoc training sessions on internal tools to enable customer service
                         department to better meet customer needs</li>
                     <li>Designed an internal Angular library for abstracting advanced form creation
                         out of HTML and into Typescript allowing our team to more quickly develop
                         and create forms in a type-safe environment</li>
-                    <li>As an architecture team member, mentored junior developers through code
-                        reviews and architecture reviews</li>
+                    <li>Mentored junior developers through code reviews and architecture reviews
+                        as a member of the architecture team</li>
                 </ul>
             </section>
             <section class="position">
@@ -314,24 +311,24 @@ author_profile: true
                         and data management</p>
                 </div>
                 <ul class="highlights">
+                    <li>Utilized Perl and Oracle SQL to consolidate client data in a quickly accessible
+                        form while following all HIPAA regulations</li>
                     <li>Worked alongside business partners to facilitate loading and fetching
                         of denormalized client data for analytics purposes</li>
-                    <li>Utilized Perl and Oracle SQL to consolidate client data in a quickly accessible
-                        form</li>
                     <li>Utilized AngularJS and Perl to create analytics interface for presenting
                         KPIs to clients in real time</li>
                     <li>Tuned performance of Oracle SQL queries</li>
                     <li>Created Angular JS frontend components and unit tests to improve modularity
                         and code quality</li>
-                    <li>Developed internal tools to streamline Agile experience: spring planning
-                        documents, backlog management tools, Slack integrations, etc</li>
-                    <li>Lead Agile Meetings (sprint reviews, retrospectives, sprint planning,
-                        daily standups, and backlog grooming)</li>
-                    <li>Lead adhoc training sessions on Kibana, Oracle SQL performance best practices,
+                    <li>Developed internal tools to streamline Agile experience such as spring
+                        planning documents, backlog management tools, Slack integrations, etc</li>
+                    <li>Lead Agile Meetings including sprint reviews, retrospectives, sprint planning,
+                        daily stand-ups, and backlog grooming</li>
+                    <li>Lead ad hoc training sessions on Kibana, Oracle SQL performance best practices,
                         and other job-specific duties</li>
                 </ul>
             </section>
-            <section class="position">
+            <section class="position project">
                 	<h2>Projects</h2>
 
                 	<h3>
@@ -345,7 +342,7 @@ author_profile: true
                 <p>A short blog post investigating the rate of injuries in the NFL during
                     the 2020 season</p>
             </section>
-            <section class="position">
+            <section class="position project">
                 	<h3>
 						Fantasy Football Challenges
 					</h3>
@@ -354,22 +351,36 @@ author_profile: true
 		                    <a target="_blank" rel="noopener" href="https://joeltjames.github.io/fantasy-football-challenges/">https://joeltjames.github.io/fantasy-football-challenges/</a>
 		                </h4>
 
-                <p>A Typescript/Angular application that allows for importing data from an
-                    ESPN Fantasy Football league. The data is then analyzed and the winner
-                    of the selected challenge is decided.</p>
+                <p>A Typescript/Angular application which imports data from an ESPN fantasy
+                    football league and determines the winner of the selected challenge.</p>
             </section>
-            <section class="position">
+            <section class="position project">
                 	<h3>
 						Golf Like the Pros: The Sweet Spots and Pitfalls at TPC Sawgrass
 					</h3>
 
-                <p>Under the supervision of Dr. Allen Lynch, from Mercer University, I worked
+                <p>Under the supervision of Dr. Allen Lynch (Mercer University), I worked
                     alongside a classmate to create a web application which displayed the most
-                    and least efficient positions on the course at TPC Sawgress. We utilized
-                    a historical data set of every shot ever taken on the PGA Tour since the
+                    and least efficient positions on the course at TPC Sawgrass utilizing a
+                    historical data set of every shot ever taken on the PGA Tour since the
                     early 2000s.</p>
             </section>
-            <section class="position">
+            <section class="position project">
+                	<h3>
+						Visualizing Arrays in Eclipse
+					</h3>
+
+                 <h4>
+		                    <a target="_blank" rel="noopener" href="https://sites.google.com/site/eclipsearrayexplorer/home">https://sites.google.com/site/eclipsearrayexplorer/home</a>
+		                </h4>
+
+                <p>Worked alongside Dr. Bilal Alsallakh (Vienna University of Technology)
+                    to create a plugin for the Eclipse IDE to allow for easy visualization
+                    and inspection of Arrays and other collection types. This project was completed
+                    as part of the Google Summer of Code Program in 2013. I was one of 143
+                    students in the United States selected for this program.</p>
+            </section>
+            <section class="position project">
                 	<h3>
 						Meal Memo
 					</h3>
@@ -380,21 +391,6 @@ author_profile: true
 
                 <p>A work-in-progress Typescript/Angular/Node/Express application intended
                     to allow for easy recipe storage, recipe search, and meal planning.</p>
-            </section>
-            <section class="position">
-                	<h3>
-						Visualizing Arrays in Eclipse
-					</h3>
-
-                 <h4>
-		                    <a target="_blank" rel="noopener" href="https://sites.google.com/site/eclipsearrayexplorer/home">https://sites.google.com/site/eclipsearrayexplorer/home</a>
-		                </h4>
-
-                <p>Worked alongside a professor from the Vienna University of Technology
-                    to create a plugin for the Eclipse IDE to allow for easy visualization
-                    and inspection of Arrays and other collection types. This project was performed
-                    as part of the Google Summer of Code Program in 2013. I was one of 143
-                    students in the United States selected for this program.</p>
             </section>
             <section class="position keep">
                 	<h2>Education</h2>
